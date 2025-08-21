@@ -1,5 +1,9 @@
 # INVENTARIO_DEMO_1.0_
+MATERIAL COMPLEMENTARIO OBLIGATORIO PARA ENTENDER
+[ https://www.youtube.com/watch?v=jKZoG9FT1lA ]
+
 PRIMERA Demostracion funcional de mi app de gestion de inventarios (para entorno local)
+
 
 uso de bootstrap
 uso de mysql + php (base de datos)
